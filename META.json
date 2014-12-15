@@ -3,7 +3,7 @@
    "author" : [
       "Rohit Deshmukh <raigad1630@gmail.com>"
    ],
-   "dynamic_config" : 0,
+   "dynamic_config" : 1,
    "generated_by" : "ExtUtils::MakeMaker version 6.84, CPAN::Meta::Converter version 2.120921",
    "license" : [
       "perl_5"
@@ -30,19 +30,15 @@
             "Carp" : "0",
             "Data::Dumper" : "0",
             "Geo::Coder::Google" : "0",
-            "Geo::Coder::OSM" : "0",
-            "Geo::Coder::TomTom" : "0",
-            "Geo::Coder::Bing" : "0",
-            "Geo::Coder::Ovi" : "0",
-            "Module::Runtime" : "0",
             "Locale::Codes::Country" : "3.30",
+            "Module::Runtime" : "0",
             "Moose" : "0",
             "namespace::autoclean" : "0",
             "perl" : "5.006"
          }
       }
    },
-   "release_status" : "stable",
+   "release_status" : "testing",
    "resources" : {
       "bugtracker" : {
          "web" : "https://github.com/raigad/geo-coder-all/issues"
@@ -54,5 +50,5 @@
          "web" : "https://github.com/raigad/geo-coder-all"
       }
    },
-   "version" : "0.05"
+   "version" : "0.05_01"
 }
