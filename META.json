@@ -38,7 +38,7 @@
          }
       }
    },
-   "release_status" : "testing",
+   "release_status" : "stable",
    "resources" : {
       "bugtracker" : {
          "web" : "https://github.com/raigad/geo-coder-all/issues"
@@ -50,5 +50,5 @@
          "web" : "https://github.com/raigad/geo-coder-all"
       }
    },
-   "version" : "0.05_01"
+   "version" : "0.06"
 }
